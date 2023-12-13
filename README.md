@@ -2,3 +2,5 @@
   Linuxcnc Rice 
 
 ## Objectives
+
+## Special thanks
