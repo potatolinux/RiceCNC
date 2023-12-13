@@ -1,2 +1,4 @@
 # RiceCNC
   Linuxcnc Rice 
+
+## Objectives
